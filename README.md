@@ -1,4 +1,4 @@
-# ProjectHotel
+# ProjectHotel 
 End to end data dashboard develop from database development, extraction via SQL, and dashboard creation.
 ----
 The following was how data was extracted in sql.
